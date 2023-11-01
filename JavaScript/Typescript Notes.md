@@ -1,0 +1,1 @@
+Typescript is superset of [[Javascript]]

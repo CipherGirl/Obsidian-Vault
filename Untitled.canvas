@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"e82164540b8f915a","x":-261,"y":20,"width":250,"height":60,"type":"text","text":"Atomic Habits"},
+		{"id":"486aa1ceaa856584","x":-261,"y":20,"width":250,"height":60,"type":"text","text":"The Fundamentals Why Tiny Changes Make a Big Difference 1 The Surprising Power of Atomic Habits 2 How Your Habits Shape Your Identity (and Vice Versa) 3 How to Build Better Habits in 4 Simple Steps"}
+	],
+	"edges":[]
+}

@@ -1,0 +1,1 @@
+A component and its template together define a _view_.
