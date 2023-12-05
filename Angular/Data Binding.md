@@ -9,3 +9,13 @@ There are two types of data binding:
 
 ![[Data Binding.png]] 
 
+![[Screenshot from 2023-11-28 17-05-51.png]]
+
+## Property Binding:
+With `[]` we define the property binding in HTML level.
+
+## Event Binding:
+With `()` we define the event binding in HTML level.
+
+## Two Way Binding:
+Property Binding + Event Binding = `[()]`

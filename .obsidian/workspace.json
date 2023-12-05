@@ -4,16 +4,76 @@
     "type": "split",
     "children": [
       {
-        "id": "e85b836f4005bd2e",
+        "id": "68f51b24f13e53e9",
         "type": "tabs",
         "children": [
           {
-            "id": "655bb353f2c4efe7",
+            "id": "2ee5a7e1fe88b55e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Angular/Structural Directives.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52f04cbb5a4e58b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Angular/@HostBinding().md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "583b930fe0233a8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Angular/Custom Directive.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "50a2a007817c9b7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Angular/Structural Directives.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e8a34f1e4009e19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Angular/@HostListener().md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0640911e36b8ef26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Angular/Structural Directives.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,11 +125,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 216.5
   },
   "right": {
     "id": "1a550635334a1146",
@@ -85,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Angular/Structural Directives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Angular/Structural Directives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Angular/Structural Directives.md"
               }
             }
           }
@@ -146,6 +207,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "655bb353f2c4efe7",
-  "lastOpenFiles": []
+  "active": "2ee5a7e1fe88b55e",
+  "lastOpenFiles": [
+    "Angular/@HostBinding().md",
+    "Angular/@HostListener().md",
+    "Angular/Decorator.md",
+    "Angular/Directive.md",
+    "Angular/Custom Directive.md",
+    "Angular/Structural Directives.md",
+    "Angular/@Output().md",
+    "Angular/@ViewChild().md",
+    "README.md",
+    "Angular/@Component.md",
+    "Angular/Lifecycle.md",
+    "Angular/@Input().md",
+    "Angular/Others.md",
+    "Angular/Angular Concepts.md",
+    "Angular/Data Binding.md",
+    "Angular/Assets/Screenshot from 2023-11-28 17-05-51.png",
+    "Angular/Module.md",
+    "Angular/Router.md",
+    "JavaScript/Map.md",
+    "JavaScript/Typescript Notes.md",
+    "JavaScript/LeetCode.md",
+    "2023-11-01.md"
+  ]
 }
