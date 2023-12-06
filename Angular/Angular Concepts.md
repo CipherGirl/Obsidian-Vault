@@ -10,6 +10,7 @@ Fundamentals:
 	  
 - [[Router]]: 
 	- Angular provides the **Router** (https://angular.io/api/router/Router) service to help you define navigation paths among views. The router provides sophisticated in-browser navigational capabilities.
+* [[Directive]]
 	  
 - [[Decorator]]: 
 	- Modules, components and services are classes that use **_Decorator_**. These decorators mark their type and provide metadata that tells Angular how to use them. Example: `@Component`

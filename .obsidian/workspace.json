@@ -11,9 +11,17 @@
             "id": "2ee5a7e1fe88b55e",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "19084994fd346ce4",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular/Structural Directives.md",
+                "file": "Angular/Attribute Directive.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,48 +40,12 @@
             }
           },
           {
-            "id": "583b930fe0233a8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Angular/Custom Directive.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "50a2a007817c9b7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Angular/Structural Directives.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8e8a34f1e4009e19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Angular/@HostListener().md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0640911e36b8ef26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Angular/Structural Directives.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Pipes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular/Structural Directives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Angular/Structural Directives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Angular/Structural Directives.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -207,22 +175,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2ee5a7e1fe88b55e",
+  "active": "4ffc95d25535735c",
   "lastOpenFiles": [
+    "Angular/@ViewChild().md",
+    "Angular/Angular Concepts.md",
+    "Angular/@Component.md",
+    "Angular/Attribute Directive.md",
+    "Angular/Directive.md",
+    "Angular/[Structural directives.md",
+    "Angular/Custom Directives.md",
+    "Angular/Structural Directive.md",
+    "Angular/Structural Directives.md",
     "Angular/@HostBinding().md",
     "Angular/@HostListener().md",
     "Angular/Decorator.md",
-    "Angular/Directive.md",
-    "Angular/Custom Directive.md",
-    "Angular/Structural Directives.md",
     "Angular/@Output().md",
-    "Angular/@ViewChild().md",
     "README.md",
-    "Angular/@Component.md",
     "Angular/Lifecycle.md",
     "Angular/@Input().md",
     "Angular/Others.md",
-    "Angular/Angular Concepts.md",
     "Angular/Data Binding.md",
     "Angular/Assets/Screenshot from 2023-11-28 17-05-51.png",
     "Angular/Module.md",

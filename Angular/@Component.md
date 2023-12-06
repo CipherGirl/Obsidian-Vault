@@ -32,6 +32,6 @@ export class HeroListComponent implements OnInit {
 * [[Data Binding]]: 
 	* Angular supports _two-way data binding_, a mechanism for coordinating the parts of a template with the parts of a component. Add binding markup to the template HTML to tell Angular how to connect both sides.
 * [[Pipes]]
-* [[Directive]]
+
 ### Takeaways:
 * A component is technically a directive.
