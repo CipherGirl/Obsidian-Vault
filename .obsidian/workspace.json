@@ -11,8 +11,12 @@
             "id": "2ee5a7e1fe88b55e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Angular/@HostBinding().md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -45,13 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular/@HostListener().md",
+                "file": "Angular/Service.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -80,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Pipes",
+                "query": "servi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,8 +102,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -118,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Angular/Service.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Angular/Service.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Angular/Service.md"
+              }
             }
           }
         ]
@@ -175,10 +183,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ffc95d25535735c",
+  "active": "1766637d7f64466b",
   "lastOpenFiles": [
-    "Angular/@ViewChild().md",
     "Angular/Angular Concepts.md",
+    "Angular/Service.md",
+    "Angular/@HostListener().md",
+    "Angular/@HostBinding().md",
+    "Angular/@ViewChild().md",
     "Angular/@Component.md",
     "Angular/Attribute Directive.md",
     "Angular/Directive.md",
@@ -186,8 +197,6 @@
     "Angular/Custom Directives.md",
     "Angular/Structural Directive.md",
     "Angular/Structural Directives.md",
-    "Angular/@HostBinding().md",
-    "Angular/@HostListener().md",
     "Angular/Decorator.md",
     "Angular/@Output().md",
     "README.md",

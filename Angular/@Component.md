@@ -1,4 +1,4 @@
-**Components** in Angular determine **[[Views]]**, or screen elements. They interact with **[[Services]]** for tasks unrelated to views. By injecting these services as dependencies, code becomes modular and efficient. 
+**Components** in Angular determine **[[Views]]**, or screen elements. They interact with **[[Service]]** for tasks unrelated to views. By injecting these services as dependencies, code becomes modular and efficient. 
 
 View: A component and its template together define a _view_. A component can contain a _view hierarchy_, which allows you to define arbitrarily complex areas of the screen that can be created, modified, and destroyed as a unit.
 
