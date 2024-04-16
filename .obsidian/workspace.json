@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6f013e11133142ae",
+            "id": "f6c4ef7a5c567e0c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Next.js/Image.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular/Others.md",
+                "file": "Next.js/Image.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Angular/Others.md",
+                "file": "Next.js/Image.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Angular/Others.md"
+                "file": "Next.js/Image.md"
               }
             }
           }
@@ -142,34 +146,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1766637d7f64466b",
+  "active": "f6c4ef7a5c567e0c",
   "lastOpenFiles": [
+    "Next.js/Folder Structure.md",
+    "Next.js/Image.md",
+    "Angular/Assets/Screenshot from 2023-11-28 17-05-51.png",
+    "Angular/Assets/Data Binding.png",
+    "Pasted image 20240416155348.png",
+    "Angular/@HostBinding().md",
+    "JavaScript/Typescript Notes.md",
+    "JavaScript/LeetCode.md",
+    "Angular/Directive.md",
+    "Angular/Data Binding.md",
+    "Angular/Attribute Directive.md",
+    "Angular/Angular Concepts.md",
+    "Angular/@Output().md",
+    "Angular/@HostListener().md",
+    "Next.js",
+    "NextJS",
+    "Angular/@ViewChild().md",
+    "Angular/Views.md",
+    "Angular/@Input().md",
+    "Angular/@Component.md",
+    "Angular/Decorator.md",
+    "Study Material/Done/Asynchronous JS with Promise.md",
+    "Angular/Others.md",
     "Angular/Router.md",
     "Angular/Service.md",
     "Angular/Structural Directive.md",
-    "Angular/Views.md",
-    "Angular/Others.md",
     "Angular/Module.md",
-    "Angular/@Input().md",
-    "Angular/@Output().md",
-    "Angular/Directive.md",
-    "Angular/Attribute Directive.md",
-    "Angular/@HostBinding().md",
-    "Angular/Angular Concepts.md",
-    "Angular/@HostListener().md",
-    "Angular/@ViewChild().md",
-    "Angular/@Component.md",
     "Angular/[Structural directives.md",
     "Angular/Custom Directives.md",
-    "Angular/Structural Directives.md",
-    "Angular/Decorator.md",
-    "README.md",
-    "Angular/Lifecycle.md",
-    "Angular/Data Binding.md",
-    "Angular/Assets/Screenshot from 2023-11-28 17-05-51.png",
-    "JavaScript/Map.md",
-    "JavaScript/Typescript Notes.md",
-    "JavaScript/LeetCode.md",
-    "2023-11-01.md"
+    "Angular/Structural Directives.md"
   ]
 }
