@@ -1,1 +1,1 @@
-Next Image always converts the file format to best supported format, for example in Chrome it converts image to WebP
+Next Image always converts the file format to best supported format, for example in Chrome it converts image to WebP.
