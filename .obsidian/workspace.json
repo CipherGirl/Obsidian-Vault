@@ -4,20 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "1506489ccc9a95e1",
+        "id": "17fea620b6dda048",
         "type": "tabs",
+        "dimension": 64.55223880597015,
         "children": [
           {
-            "id": "f6c4ef7a5c567e0c",
+            "id": "8afc01fb10250372",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Next.js/Image.md",
+                "file": "JavaScript/Book - JavaScript with Promise.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "161f68374378d86e"
+          }
+        ]
+      },
+      {
+        "id": "435926ec417309af",
+        "type": "tabs",
+        "dimension": 35.44776119402985,
+        "children": [
+          {
+            "id": "3df82dc1ee461a34",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "JavaScript/Book - JavaScript with Promise.md"
+              }
+            },
+            "group": "161f68374378d86e"
           }
         ]
       }
@@ -48,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "servi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Next.js/Image.md",
+                "file": "JavaScript/Book - JavaScript with Promise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Next.js/Image.md",
+                "file": "JavaScript/Book - JavaScript with Promise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +145,19 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Next.js/Image.md"
+                "file": "JavaScript/Book - JavaScript with Promise.md"
+              }
+            }
+          },
+          {
+            "id": "b47f01256a8a9ea5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -143,13 +175,26 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false
     }
   },
-  "active": "f6c4ef7a5c567e0c",
+  "active": "8afc01fb10250372",
   "lastOpenFiles": [
-    "Next.js/Folder Structure.md",
+    "JavaScript/Javascript.md",
+    "Angular/Lifecycle.md",
+    "Angular/Views.md",
+    "Angular/Structural Directive.md",
+    "Angular/Router.md",
+    "Angular/Data Binding.md",
+    "Angular/@Input().md",
+    "JavaScript/Book - JavaScript with Promise.md",
+    "JavaScript/Race Condition.md",
+    "Angular/@Component.md",
+    "Angular/Angular Concepts.md",
+    "JavaScript/Callback.md",
     "Next.js/Image.md",
+    "Next.js/Folder Structure.md",
     "Angular/Assets/Screenshot from 2023-11-28 17-05-51.png",
     "Angular/Assets/Data Binding.png",
     "Pasted image 20240416155348.png",
@@ -157,26 +202,15 @@
     "JavaScript/Typescript Notes.md",
     "JavaScript/LeetCode.md",
     "Angular/Directive.md",
-    "Angular/Data Binding.md",
     "Angular/Attribute Directive.md",
-    "Angular/Angular Concepts.md",
     "Angular/@Output().md",
     "Angular/@HostListener().md",
     "Next.js",
     "NextJS",
     "Angular/@ViewChild().md",
-    "Angular/Views.md",
-    "Angular/@Input().md",
-    "Angular/@Component.md",
     "Angular/Decorator.md",
-    "Study Material/Done/Asynchronous JS with Promise.md",
     "Angular/Others.md",
-    "Angular/Router.md",
     "Angular/Service.md",
-    "Angular/Structural Directive.md",
-    "Angular/Module.md",
-    "Angular/[Structural directives.md",
-    "Angular/Custom Directives.md",
-    "Angular/Structural Directives.md"
+    "Angular/Module.md"
   ]
 }

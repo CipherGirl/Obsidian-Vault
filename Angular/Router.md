@@ -24,7 +24,7 @@ Here are some fundamental concepts and features related to Angular's router:
 	- This feature lets you split your application into multiple bundles which can be loaded on demand. It's particularly useful for large apps to ensure that users don't have to load the entire application to use a specific feature.
 	  
 8. **Resolver**:
-	- Resolvers allow components to receive the necessary data before the route is finally activated. This is useful, for example, when you want to ensure data for a particular component is available before rendering it.
+	- Resolver's allow components to receive the necessary data before the route is finally activated. This is useful, for example, when you want to ensure data for a particular component is available before rendering it.
 	  
 9. **Child Routes**:
 	- These allow for the configuration of more specific routes under a parent route, enabling the setup of intricate UI structures with nested views.
