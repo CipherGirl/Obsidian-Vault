@@ -6,7 +6,6 @@
       {
         "id": "17fea620b6dda048",
         "type": "tabs",
-        "dimension": 64.55223880597015,
         "children": [
           {
             "id": "8afc01fb10250372",
@@ -14,32 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/Book - JavaScript with Promise.md",
+                "file": "Next.js/Introduction.md",
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "161f68374378d86e"
-          }
-        ]
-      },
-      {
-        "id": "435926ec417309af",
-        "type": "tabs",
-        "dimension": 35.44776119402985,
-        "children": [
+            }
+          },
           {
-            "id": "3df82dc1ee461a34",
+            "id": "4871da960877c7f9",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "markdown",
               "state": {
-                "file": "JavaScript/Book - JavaScript with Promise.md"
+                "file": "Next.js/Routing (Folder Structure).md",
+                "mode": "source",
+                "source": false
               }
-            },
-            "group": "161f68374378d86e"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/Book - JavaScript with Promise.md",
+                "file": "Next.js/Routing (Folder Structure).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/Book - JavaScript with Promise.md",
+                "file": "Next.js/Routing (Folder Structure).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/Book - JavaScript with Promise.md"
+                "file": "Next.js/Routing (Folder Structure).md"
               }
             }
           },
@@ -179,38 +172,38 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "8afc01fb10250372",
+  "active": "1766637d7f64466b",
   "lastOpenFiles": [
-    "JavaScript/Javascript.md",
-    "Angular/Lifecycle.md",
+    "Screenshot from 2024-05-29 11-35-20.png",
+    "Next.js/Introduction.md",
+    "Next.js/Routing (Folder Structure).md",
+    "Next.js/Image.md",
+    "Angular/Router.md",
+    "Angular/Angular Concepts.md",
+    "Angular/@ViewChild().md",
+    "Angular/@Output().md",
+    "Angular/@Input().md",
+    "Angular/@HostBinding().md",
+    "Angular/@Component.md",
     "Angular/Views.md",
     "Angular/Structural Directive.md",
-    "Angular/Router.md",
-    "Angular/Data Binding.md",
-    "Angular/@Input().md",
+    "Angular/Module.md",
+    "Angular/Lifecycle.md",
     "JavaScript/Book - JavaScript with Promise.md",
+    "JavaScript/Javascript.md",
+    "Angular/Data Binding.md",
     "JavaScript/Race Condition.md",
-    "Angular/@Component.md",
-    "Angular/Angular Concepts.md",
     "JavaScript/Callback.md",
-    "Next.js/Image.md",
-    "Next.js/Folder Structure.md",
     "Angular/Assets/Screenshot from 2023-11-28 17-05-51.png",
     "Angular/Assets/Data Binding.png",
     "Pasted image 20240416155348.png",
-    "Angular/@HostBinding().md",
     "JavaScript/Typescript Notes.md",
     "JavaScript/LeetCode.md",
     "Angular/Directive.md",
     "Angular/Attribute Directive.md",
-    "Angular/@Output().md",
     "Angular/@HostListener().md",
     "Next.js",
     "NextJS",
-    "Angular/@ViewChild().md",
-    "Angular/Decorator.md",
-    "Angular/Others.md",
-    "Angular/Service.md",
-    "Angular/Module.md"
+    "Angular/Decorator.md"
   ]
 }
